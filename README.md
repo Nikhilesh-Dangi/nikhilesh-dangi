@@ -18,7 +18,4 @@ Edit:
 
 - `assets/content.js` (name, links, projects, research, writing, contact email)
 
-## Deploy
-
-Works on any static host (GitHub Pages, Netlify, Cloudflare Pages, S3, etc). Upload the repository contents as-is.
 
